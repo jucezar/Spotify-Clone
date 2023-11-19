@@ -18,18 +18,6 @@ Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-<br>
-<!--
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true" width="400em" alt="juliomartins's stats">
-</p>
--->
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucezar&theme=tokyonight&layout=compact" width="530em" alt="juliomartins's stats"> 
- <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucezar&layout=compact" width="530em" alt="juliomartins's stats">
-</p>
 <br>
 
 ## :mailbox_with_no_mail: Contatos

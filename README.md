@@ -3,7 +3,7 @@ Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
 
  ### Desafio Proposto pela Imã
 <p>
- :computer: O objetivo principal é desenvolver habilidades práticas na construção de interfaces de usuário atraentes e responsivas, utilizando tecnologias como HTML, CSS e JavaScript.
+ :heavy_check_mark: O objetivo principal é desenvolver habilidades práticas na construção de interfaces de usuário atraentes e responsivas, utilizando tecnologias como HTML, CSS e JavaScript.
 </p>
 
 
@@ -26,7 +26,7 @@ Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
 </p>
 -->
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact" width="530em" alt="juliomartins's stats"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucezar&theme=tokyonight&layout=compact" width="530em" alt="juliomartins's stats"> 
 </p>
 <br>
 

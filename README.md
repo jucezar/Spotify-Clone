@@ -26,6 +26,8 @@ Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
 </p>
 -->
 <p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucezar&layout=compact)](https://github.com/jucezar/github-readme-stats)
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucezar&theme=tokyonight&layout=compact" width="530em" alt="juliomartins's stats"> 
 </p>
 <br>

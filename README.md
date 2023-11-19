@@ -2,6 +2,11 @@
 Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jucezar&color=blue" alt="Profile views" /> </p>
+
+ ### Desafio Proposto pela Imã
+<p>
+ O objetivo principal é desenvolver habilidades práticas na construção de interfaces de usuário atraentes e responsivas, utilizando tecnologias como HTML, CSS e JavaScript.
+</p>
  
 - :technologist: Desenvolverdor Salesforce / Web / Designer Gráfico
 

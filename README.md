@@ -10,7 +10,7 @@ Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
  Visite projeto em produção: 
  <a href="">
   Clique aqui
-  <img src="[https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)">
+  <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
  </a>
 </p>
 

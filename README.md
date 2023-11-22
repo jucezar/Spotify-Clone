@@ -7,7 +7,7 @@ Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
 </p>
 
 <p>
- ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+ Visite projeto em produção ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 </p>
 
 <br><br>

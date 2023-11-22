@@ -7,7 +7,7 @@ Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
 </p>
 
 <p>
- :point_right:Visite projeto em produção: 
+ :point_right: Visite projeto em produção: 
  <a href="https://ovnicode.000webhostapp.com/" target="_blank">
   <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
  </a>

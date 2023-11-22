@@ -6,6 +6,9 @@ Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
  :heavy_check_mark: O objetivo principal é desenvolver habilidades práticas na construção de interfaces de usuário atraentes e responsivas, utilizando tecnologias como HTML, CSS e JavaScript.
 </p>
 
+<p>
+ ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+</p>
 
 <br><br>
 

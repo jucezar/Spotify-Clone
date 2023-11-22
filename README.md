@@ -1,5 +1,5 @@
 # Spotify-Clone
-Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
+## Desafios Guiados - Imã tech - Projeto Guiado (Front-End)
 
  ### Desafio Proposto pela Imã
 <p>

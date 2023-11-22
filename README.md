@@ -7,9 +7,8 @@ Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
 </p>
 
 <p>
- Visite projeto em produção: 
+ :point_right:Visite projeto em produção: 
  <a href="">
-  Clique aqui
   <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
  </a>
 </p>

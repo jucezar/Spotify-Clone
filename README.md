@@ -7,9 +7,11 @@ Desafios Guiados - Ima tech - Projeto Guiado (Front-End)
 </p>
 
 <p>
- Visite projeto em produção ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-
- ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+ Visite projeto em produção: 
+ <a href="">
+  Clique aqui
+  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
+ </a>
 </p>
 
 <br><br>
